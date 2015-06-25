@@ -1,0 +1,8 @@
+c:\users\meletis\documents\visual studio 2013\Projects\l33t VLC Title Exporter\l33t VLC Title Exporter\bin\Debug\l33t VLC Title Exporter.exe
+c:\users\meletis\documents\visual studio 2013\Projects\l33t VLC Title Exporter\l33t VLC Title Exporter\bin\Debug\l33t VLC Title Exporter.pdb
+c:\users\meletis\documents\visual studio 2013\Projects\l33t VLC Title Exporter\l33t VLC Title Exporter\obj\Debug\l33t VLC Title Exporter.csprojResolveAssemblyReference.cache
+c:\users\meletis\documents\visual studio 2013\Projects\l33t VLC Title Exporter\l33t VLC Title Exporter\obj\Debug\l33t_VLC_Title_Exporter.Form1.resources
+c:\users\meletis\documents\visual studio 2013\Projects\l33t VLC Title Exporter\l33t VLC Title Exporter\obj\Debug\l33t_VLC_Title_Exporter.Properties.Resources.resources
+c:\users\meletis\documents\visual studio 2013\Projects\l33t VLC Title Exporter\l33t VLC Title Exporter\obj\Debug\l33t VLC Title Exporter.csproj.GenerateResource.Cache
+c:\users\meletis\documents\visual studio 2013\Projects\l33t VLC Title Exporter\l33t VLC Title Exporter\obj\Debug\l33t VLC Title Exporter.exe
+c:\users\meletis\documents\visual studio 2013\Projects\l33t VLC Title Exporter\l33t VLC Title Exporter\obj\Debug\l33t VLC Title Exporter.pdb
